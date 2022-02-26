@@ -4,14 +4,13 @@ body{
 
 body {
     background-color: #E5E5E5;
+    height: 500px;
 }
 
 .barnd-logo {
     width: 42.50px;
     height: 51px;
-    margin-left: 155px;
-    margin-bottom: 10px;
-    margin-top: 15px;
+    margin-left: 160px;
 }
 
 .nav-item img{
@@ -22,8 +21,8 @@ body {
 .navbar-nav{
     position: absolute;
     width: 59px;
-    left: 1110px;
-    top: 20px;
+    left: 1130px;
+    top: 1px;
 }
 
 main {
@@ -31,7 +30,7 @@ main {
     width: 890px;
     height: 679px;
     left: 481px;
-    top: 136px;
+    top: 100px;
     background: #FFFFFF;
     border-radius: 5px;
 }
@@ -64,15 +63,63 @@ span {
   border: 1px solid #D1D1D1;
 }
 
+.center{
+    margin-left: 178px;
+}
+
 .logo-img img{
     width: 190px;
     height: 117px;
     margin-left: 5px;
 }
 
-.center{
-    margin-left: 178px;
+
+.background {
+    position: absolute;
+    width: 890px;
+    height: 376px;
+    left: 480px;
+    top: 800px;
+    background: #FFFFFF;
+    border-radius: 5px;
 }
+
+.btn {
+    position: absolute;
+    Width: 98.83px;
+    height: 28.38px;
+    left: 56.01%;
+    right: 40.4%;
+    top: 260px;
+    font-size: 15px;
+    background: #ffe4e8;
+    border-radius: 14.6913px;
+}
+
+.col img{
+    width: 234px;
+    height: 114px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.card {
+    position: absolute;
+    border: none;
+    border-radius: 10px;
+    width: 252.42px;
+    height: 305.79px;
+    margin-left: 14px;
+   filter: drop-shadow(0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05));
+}
+
+.fa-solid {
+   color: #ffc014;
+}
+
+
+
+
 
 
 
